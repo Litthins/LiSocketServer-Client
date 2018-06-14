@@ -1,3 +1,7 @@
+//
+// Created by Litthins on 18-6-4.
+//
+
 #include <pthread.h>
 #include "headers/msgqfunc.h"
 #include "headers/socketclientfunc.h"
