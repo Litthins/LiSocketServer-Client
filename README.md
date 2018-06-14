@@ -2,9 +2,11 @@
 
 日期：2018年5月29日 作者：Litthins
 
-SocketServer-Client is a small program for communication between single server and multiple clients in Linux system via socket. This program could perform string transmission of Server<->Clients and image transmission of Clients->Server.
+SocketServer-Client is a small program for communication between single server and multiple clients in Linux system via socket.This program provides a simple message queue. See the LiSocketServer-Client with MQ folder for details.This program could perform string transmission of Server<->Clients and image transmission of Clients->Server.The picture transmission has picture integrity check and retransmission function.This article briefly describes how to use this LiSocketServer-Client.
 
 LiSocketServer-Client是Linux系统下单Server多Client的经由socket进行通讯的小程序，
+
+本程序提供简单的消息队列，详见LiSocketServer-Client with MQ文件夹。
 
 本程序可以实现Server<->Clients的字符串传输和Clients->Server的图片传输。
 
