@@ -1,5 +1,5 @@
 //
-// 本文件为socketclientfunc类的定义文件，详细参考main.cpp文件注释
+// 本文件为Socketclientfunc类的定义文件，详细参考main.cpp文件注释
 // Created by Litthins on 18-5-20.
 //
 
