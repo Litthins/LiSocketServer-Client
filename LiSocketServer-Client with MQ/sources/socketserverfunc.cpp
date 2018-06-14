@@ -1,5 +1,5 @@
 //
-// 本文件是socketserverfunc类函数的定义文件，详细使用方法请参考main.cpp文件
+// 本文件是Socketserverfunc类函数的定义文件，详细使用方法请参考main.cpp文件
 // Created by Litthins on 18-5-20.
 //
 
