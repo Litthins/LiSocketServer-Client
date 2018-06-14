@@ -1,6 +1,6 @@
 //
-// 本文件是Socketfunc类的声明文件，详细定义请参照socketfunc.cpp文件
-// Created by raspberry on 18-5-20.
+// 本文件是Socketserverfunc类的声明文件，详细定义请参照socketserverfunc.cpp文件
+// Created by Litthins on 18-5-20.
 //
 #include <sys/types.h>
 #include <sys/socket.h>
