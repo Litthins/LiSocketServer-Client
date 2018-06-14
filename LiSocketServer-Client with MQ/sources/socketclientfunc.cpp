@@ -1,6 +1,6 @@
 //
-// 本文件为Socketfunc类的定义文件，详细参考main.cpp文件注释
-// Created by raspberry on 18-5-20.
+// 本文件为Socketclientfunc类的定义文件，详细参考main.cpp文件注释
+// Created by Litthins on 18-5-20.
 //
 
 #include <cstdio>
