@@ -1,4 +1,4 @@
-// 本文件为socketclientfunc类的声明，详细定义在socketclientfunc.cpp文件中
+// 本文件为Socketclientfunc类的声明，详细定义在socketclientfunc.cpp文件中
 // Created by Litthins on 18-5-20.
 //
 
