@@ -1,5 +1,5 @@
-// 本文件为Socketfunc类的声明，详细定义在socketfunc.cpp文件中
-// Created by raspberry on 18-5-20.
+// 本文件为socketclientfunc类的声明，详细定义在socketclientfunc.cpp文件中
+// Created by Litthins on 18-5-20.
 //
 
 #include <cstdio>
