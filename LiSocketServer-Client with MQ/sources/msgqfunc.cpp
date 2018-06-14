@@ -1,5 +1,5 @@
 //
-// Created by raspberry on 18-6-4.
+// Created by Litthins on 18-6-4.
 //
 
 #include "msgqfunc.h"
